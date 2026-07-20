@@ -20,16 +20,6 @@ Looking for full-stack developer roles.
 ### Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,postgres,mysql,mongodb,tailwind,git,postman,figma,framer&perline=7)](https://skillicons.dev)
-
-<br>
-
-### GitHub Stats
-
-<div align="center">
-<img height="150em" src="https://github-stats-extended.vercel.app/api?username=Aman-Yati&show_icons=true&hide_border=true&theme=default" />
-<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aman-Yati&layout=compact&hide_border=true&theme=default" />
-</div>
-
 <br>
 
 <div align="center">
