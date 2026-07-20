@@ -1,41 +1,39 @@
-# Aman Yati
+<div align="center">
 
-Java full-stack developer building database-driven web apps with Spring Boot and Next.js.
+# Hi, I'm Aman Yati 👋
+### Java Full-Stack Developer — Spring Boot · React · Next.js · PostgreSQL
 
-[LinkedIn](https://linkedin.com/in/aman-yati) · [Email](mailto:corporateamanyati@gmail.com) · Jaipur, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-yati)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:corporateamanyati@gmail.com)
+![Location](https://img.shields.io/badge/Jaipur,%20India-333?style=flat-square)
 
-## Currently
+</div>
 
-- Studying BCA at Poornima University (CGPA 8.13/10, 2024–2027)
-- Building full-stack projects end to end — schema design, API layer, auth, UI
-- Sharpening data structures & algorithms and system design fundamentals
+Full-stack developer working primarily in Java and the Spring ecosystem, with React and Next.js on the frontend. I design the database, build the API, and ship the UI — same person handling all three, so nothing gets lost in translation between layers.
 
-## Stack
+Currently in my final year of a BCA at Poornima University (CGPA 8.13/10). I've interned as a web developer, built and shipped a few full-stack projects on my own, and put time into hackathons when the problem is interesting enough. Right now I'm focused on getting stronger at data structures, algorithms, and system design.
 
-**Backend** — Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS
-**Data** — PostgreSQL, MySQL, MongoDB
-**Other** — Git, Postman, Figma, Prisma ORM
+Looking for full-stack developer roles.
 
-## Projects
+<br>
 
-**[ForgeBase](https://github.com/Aman-Yati) — job application tracker**
-Next.js, TypeScript, PostgreSQL, Prisma, Clerk
-Full-stack tracker with auth, CRUD workflows, an analytics dashboard, and search/filtering. 15+ reusable components, deployed on Vercel.
+### Stack
 
-**[ZenkaiX](https://github.com/Aman-Yati) — e-commerce backend**
-Java, Spring Boot, Hibernate, MySQL
-REST APIs for product, cart, and order management on a layered Controller–Service–Repository architecture with a normalized relational schema.
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,postgres,mysql,mongodb,tailwind,git,postman,figma,framer&perline=7)](https://skillicons.dev)
 
-## Experience
+<br>
 
-**Web Developer Intern**, M.etion Technologies — integrated REST APIs into frontend features, debugged production issues, worked in a Git-based team workflow
-**Web Developer Intern**, InAmigos Foundation — ranked 2nd of 68 interns; built responsive pages from Figma designs
+### GitHub Stats
 
-## Stats
+<div align="center">
+<img height="150em" src="https://github-stats-extended.vercel.app/api?username=Aman-Yati&show_icons=true&hide_border=true&theme=default" />
+<img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aman-Yati&layout=compact&hide_border=true&theme=default" />
+</div>
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Yati&show_icons=true&hide_border=true&theme=default)
+<br>
 
----
+<div align="center">
 
-Open to full-stack developer roles — reach out at corporateamanyati@gmail.com
+Open to full-stack roles — <a href="mailto:corporateamanyati@gmail.com">let's talk</a>
+
+</div>
